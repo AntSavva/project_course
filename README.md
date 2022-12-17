@@ -20,5 +20,10 @@
 
 <img width="540" alt="Главный экран" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPg21khnA3Q5iPRKVTsOK71k6PSppSNxayx0xjLQqeXElpEbDRs0RMvGjDfX6uG0duSVb_L2QXNGo7kgUYQjkKnLsx-cQ=w1920-h1002">
 
-<img width="540" alt="Главный экран" src="https://lh3.google.com/u/0/d/1cTqxlD-mjN0ZLBVdZOh5Jz8rKwgBiUf8=w1464-h1329-iv1">
+### Целевая аудитория
+<img width="540" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gP-yJPSxiesM9XPqlYwlEWz1N96qcX61VG_0IX9pRywSqjiOQjQk29pweTCvOztyUcB-nj-1Fs7t2-rBVlBLJPUnHrZ0A=w1920-h1002" alt="Целевая аудитория" >
 
+
+<a href="https://drive.google.com/file/d/14c48g41tpnqTifYh1Y_QXuSvHQ0ZHu7A/view?usp=share_link">Полный документ "Требования к проекту"</a>
+
+<a href="https://drive.google.com/file/d/14c48g41tpnqTifYh1Y_QXuSvHQ0ZHu7A/view?usp=share_link">Техническое задание</a>
