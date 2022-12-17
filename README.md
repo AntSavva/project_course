@@ -20,5 +20,5 @@
 
 <img width="540" alt="Главный экран" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPg21khnA3Q5iPRKVTsOK71k6PSppSNxayx0xjLQqeXElpEbDRs0RMvGjDfX6uG0duSVb_L2QXNGo7kgUYQjkKnLsx-cQ=w1920-h1002">
 
-<img width="540" alt="Главный экран" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPg21khnA3Q5iPRKVTsOK71k6PSppSNxayx0xjLQqeXElpEbDRs0RMvGjDfX6uG0duSVb_L2QXNGo7kgUYQjkKnLsx-cQ=w1920-h1002](https://lh3.google.com/u/0/d/1cTqxlD-mjN0ZLBVdZOh5Jz8rKwgBiUf8=w200-h190-p-k-nu-iv1">
+<img width="540" alt="Главный экран" src="https://lh3.google.com/u/0/d/1cTqxlD-mjN0ZLBVdZOh5Jz8rKwgBiUf8=w1464-h1329-iv1">
 
